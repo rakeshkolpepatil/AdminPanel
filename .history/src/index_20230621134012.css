@@ -7,14 +7,4 @@ body,
 .content {
   height: 100%;
   width: 100%;
-  font-family: Roboto;
-}
-
-.app{
-  display: flex;
-  position: relative;
-}
-
-::-webkit-scrollbar-track {
-  background: #e0e0e0
 }
